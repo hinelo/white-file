@@ -1,4 +1,4 @@
-#include "StringOps.hpp"
+#include "Sman.hpp"
 
 int main(int argc, char const *argv[]){ 
 	string file = argv[1];
